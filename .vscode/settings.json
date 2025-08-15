@@ -6,6 +6,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
 
     "[java]": {
-        "editor.defaultFormatter": "redhat.java"
+        "editor.defaultFormatter": "Oracle.oracle-java"
     }
 }
